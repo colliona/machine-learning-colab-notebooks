@@ -1,1 +1,1 @@
-# machine-learning-colab-notebooks
+# Machine learning colab notebooks
